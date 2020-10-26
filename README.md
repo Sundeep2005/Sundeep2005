@@ -10,13 +10,13 @@ I am Sundeep and I am 15 years old, I like programming and gaming.
 keep learning new things about different types of programming languages.
 
 ## 💬 Programming languages
-- HTML
-- CSS
-- PHP
-- JavaScript
-- Golang
-- Python
-- Java
+  <p>- HTML<p>
+  <p>- CSS  <p>
+  <p>- PHP  <p>
+  <p>- JavaScript  <p>
+  <p>- Golang  <p>
+  <p>- Python <p>
+  <p>- Java  <p>
 
 
 ## 📫 How to reach me
