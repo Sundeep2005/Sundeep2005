@@ -1,10 +1,10 @@
 <div align="center">
   <br/>
   <p>
-        <a href="http://sundeep.nl/sundeep.png"><img src="http://sundeep.nl/sundeep.png" width="546" alt="Sundeep" /></a>
+        <a href="http://sundeep.nl/images/sundeep.png"><img src="http://sundeep.nl/images/sundeep.png" width="546" alt="Sundeep" /></a>
 
 ## 🙃 About me
-I am Sundeep and I am 15 years old, I like programming and gaming.
+I am Sundeep and I am 16 years old, I like programming and gaming.
 
 ## 🌱 I’m currently learning
 keep learning new things about different types of programming languages.
