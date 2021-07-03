@@ -1,7 +1,7 @@
 <div align="center">
   <br/>
   <p>
-        <a href="http://sundeep.nl/images/sundeep.png"><img src="http://sundeep.nl/images/sundeep.png" width="546" alt="Sundeep" /></a>
+        <a href="https://sundeep.nl/assets/img/sundeep.png"><img src="https://sundeep.nl/assets/img/sundeep.png" width="546" alt="Sundeep" /></a>
 
 ## 🙃 About me
 I am Sundeep and I am 16 years old, I like programming and gaming.
