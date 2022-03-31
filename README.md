@@ -6,7 +6,6 @@ My name is Sundeep! I'm 16 years old and I mostly programs websites and discord 
 - 📫 How to reach me:
   - **Mail: sundeepzakelijk@hotmail.com**
   - **Discord tag: Sundeep#2005**
-- ⚡ Fun fact: **I started programming when I was eleven years old!**
 
 ### Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Sundeep_2005)
