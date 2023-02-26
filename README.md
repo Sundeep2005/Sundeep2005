@@ -1,8 +1,7 @@
 ### Hi there 👋
-My name is Sundeep! I'm 16 years old and I mostly programs websites and discord bots and java plugin!
+My name is Sundeep! I'm 17 years old and I mostly programs websites and discord bots and java plugins!
 
-- 🔭 I’m currently working on [**ChatColors**](https://www.spigotmc.org/resources/chatcolors.100788/).
-- 🌱 I’m currently learning **goLang and Lua**.
+- 🔭 I’m currently working on <b>Nothing</b>.
 - 📫 How to reach me:
   - **Mail: sundeepzakelijk@hotmail.com**
   - **Discord tag: Sundeep#2005**
