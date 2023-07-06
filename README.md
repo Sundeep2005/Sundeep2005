@@ -3,8 +3,8 @@ My name is Sundeep! I'm 18 years old and I mostly programs websites and discord 
 
 - 🔭 I’m currently working on <b>Nothing</b>.
 - 📫 How to reach me:
-  - **Mail: sundeepzakelijk@hotmail.com**
-  - **Discord tag: Sundeep#2005**
+  - **Mail: sundeep.dejongh@hotmail.com**
+  - **Discord: sundeep.**
 
 ### Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Sundeep_2005)
