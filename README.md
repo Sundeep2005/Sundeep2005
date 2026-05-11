@@ -1,26 +1,5 @@
 <h1 align="center">Hey there, I'm Sundeep 👋</h1>
 
-<p align="center">
-  <b>Web Developer • Learning to be a Plugin Developer</b>
-</p>
-
-<p align="center">
-  I build websites, Discord bots, and i'm learning to make minecraft Java plugins.<br>
-  I enjoy creating practical projects, learning new technologies, and improving my skills every day.
-</p>
-
----
-
-## 🚀 About Me
-
-- 💻 I mostly work on **websites**, **Discord bots**.
-- 🌱 Always learning and improving as a developer
-- 🎯 Focused on building clean, useful, and creative projects
-- 📫 Reach me at: **sundeep.dejongh@hotmail.com**
-- 💬 Discord: **sundeep.**
-
----
-
 ## 🌐 Socials
 
 <p align="left">
@@ -35,8 +14,10 @@
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=sundeep2005&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundeep2005&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sundeep2005&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sundeep2005&theme=tokyonight" />
+</p>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sundeep2005&theme=tokyonight" />
 
